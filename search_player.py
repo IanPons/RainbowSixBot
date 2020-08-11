@@ -13,7 +13,7 @@ psn - ps4
 '''
 
 
-def buscar_jogador(nick, plataforma='pc'):
+def s_player(nick, plataforma='pc'):
     url = 'https://r6.tracker.network/profile/'+plataforma+'/'+nick
     user_agent = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.7) Gecko/2009021910 Firefox/3.0.7'
     headers={'User-Agent': user_agent,}
