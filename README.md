@@ -9,4 +9,6 @@ Web scraping bot that show stats of Rainbow Six Siege players.
 
 Returns MMR, player rank, player KD (kill/death) ratio.
 
+![alt text](https://github.com/IanPons/RainbowSixBot/blob/master/res/printscreen.png?raw=true)
+
 
