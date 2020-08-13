@@ -8,3 +8,5 @@ Web scraping bot that show stats of Rainbow Six Siege players.
 !StatsPs4 *nickname* for PS4 player
 
 Returns MMR, player rank, player KD (kill/death) ratio.
+
+
