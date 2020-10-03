@@ -1,17 +1,5 @@
 from bs4 import BeautifulSoup as sopa
 import urllib.request
-'''
-url - plataforma
-pc - PC
-xbox - xone
-psn - ps4
-
-[-15] = KDRatio
-[2] = rank_name
-[8] = general_kd
-
-'''
-
 
 def s_player(nick, plataforma='pc'):
     url = 'https://r6.tracker.network/profile/'+plataforma+'/'+nick
