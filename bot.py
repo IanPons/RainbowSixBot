@@ -23,5 +23,4 @@ async def StatsPs4(ctx, nick):
 async def SatsXbox(ctx, nick):
 	await ctx.send(s_player(nick, 'xbox'))
 
-'''
 bot.run(TOKEN)
